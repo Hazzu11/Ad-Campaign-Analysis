@@ -13,6 +13,12 @@ As an intern at **Excelerate**, I leveraged my expertise in data collection, ana
 - Developed dynamic visualizations in Tableau to present key metrics and trends.
 - Delivered clear and impactful presentations that facilitated data-driven decision-making.
 
+### **Campaign Performance Assessment**
+- **Ad Campaign 3 for Superhero U Globalshla on Facebook**:
+  - Identified high **Cost per Click (CPC)**, high **Cost per Result (CPR)**, and low **Click-through Rate (CTR)**.
+  - Highlighted the resulting poor **Return on Investment (ROI)**.
+  - Recommended reassessment of targeting, messaging, or creative elements to enhance cost-effectiveness and improve outcomes.
+
 ### **Cross-Functional Collaboration**
 - Worked closely with cross-functional teams to assess campaign performance.
 - Recommended the discontinuation of an underperforming campaign, leading to significant cost savings.
